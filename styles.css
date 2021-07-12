@@ -109,8 +109,8 @@ body {
     left: 20px;
     width: calc(100% - 40px);
     padding: 10px 10px 0px 10px;
-    opacity: 0;
-    transform: translateY(0%);
+    opacity: .7;
+    transform: translateY(-47%);
     transition: transform 0.4s ease-in, opacity 0.4s ease-in;
 }
 
